@@ -3,8 +3,8 @@ Hello, I’m Shadrack Omary, a Frontend Developer (React.js), MQL5 Developer, an
 
 🔹 Frontend Development (React.js, MERN Stack)
 Proficient in React.js, Tailwind CSS, and JavaScript to build responsive, user-friendly web applications.
-Developed AiAlgoTraders.com – a Forex investment platform enabling real-time trading, user registration, and subscription plans.
-Built Bisque Beaver – a dynamic, interactive web project showcasing modern frontend techniques.
+Developed[ AiAlgoTraders.com](aialgotraders.com) – a Forex investment platform enabling real-time trading, user registration, and subscription plans.
+Building [GOTAFIMA](https://bisque-beaver-681872.hostingersite.com/) – a dynamic, interactive web project showcasing modern frontend techniques.
 Currently developing a Forex Investment Dashboard with features like KYC, referrals, and real-time WebSocket integrations.
 🔹 MQL5 Developer & Trading Automation
 Strong experience in automated trading strategies, financial markets, and algorithmic trading.
