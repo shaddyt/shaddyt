@@ -14,7 +14,7 @@ Medical Doctor (MD, University of Dodoma). The clinical training shaped how I mo
 
 Most repositories are private — these are client and co-founder projects with live deployments. Architecture deep-dives and screenshots at [shaddyt.space](https://shaddyt.space).
 
-**[Hisa Hub](https://hisahub.cloud)** — Co-Founder & CTO. Live with paying subscribers.
+**[Breezberg](https://breezberg.com)** — Co-Founder & CTO. Live with paying subscribers.
 AI-driven market intelligence platform for the Dar es Salaam Stock Exchange. Groq-powered trading agent with tool-use re-scoring 23+ equities every 5 minutes. HMAC-SHA256 request signing. 12+ technical indicators offloaded to a Web Worker. ~15,300 LOC TypeScript.
 
 **[Taven Industries ERP](https://tavenindustries.com)** — Solo build. Live in production.
