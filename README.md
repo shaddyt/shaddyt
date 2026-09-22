@@ -1,6 +1,6 @@
 # Shadrack Omary, MD
 
-**Senior Full Stack Engineer & Engineering Lead** · Tanzania (GMT+3) · Remote worldwide
+**Senior Full Stack Engineer & Engineering Lead** · Remote worldwide
 
 I build production systems where software cannot afford to fail — fintech platforms moving real money, healthcare tools at the clinical edge, and enterprise operations replacing paper with software people can trust.
 
